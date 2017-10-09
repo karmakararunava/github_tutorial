@@ -1,2 +1,2 @@
 # tutorial2
-git tutorial
+project executed to learn the workflow of git...
