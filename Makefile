@@ -11,7 +11,7 @@ OBJ = *.o
 BIN = hello
 
 # headers
-INCS = 
+INCS = -I./
 
 #linking
 LIBS = 
